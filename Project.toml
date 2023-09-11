@@ -1,6 +1,6 @@
 name = "oxigraph_server_jll"
 uuid = "ca7c0f55-ad95-5972-a3e2-8e5b4e3bed80"
-version = "0.3.18+0"
+version = "0.3.19+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

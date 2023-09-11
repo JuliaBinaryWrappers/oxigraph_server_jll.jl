@@ -1,45 +1,45 @@
 [[oxigraph_server]]
 arch = "aarch64"
-git-tree-sha1 = "320e79cf395cecf05958cfe8af7ceb825d843b9c"
+git-tree-sha1 = "cb939b3d8d0e40ef55b1912c5b1f00950c5b734a"
 os = "macos"
 
     [[oxigraph_server.download]]
-    sha256 = "ca3a71bb5e6dd26f561a497a7b420aa52200509a37a6df7eb714ea60f38271e0"
-    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.18+0/oxigraph_server.v0.3.18.aarch64-apple-darwin.tar.gz"
+    sha256 = "54c56bc17e4a9e9cf308c8a3cbb165a12ec142ca4a28deb89580ba4b5f7f5f89"
+    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.19+0/oxigraph_server.v0.3.19.aarch64-apple-darwin.tar.gz"
 [[oxigraph_server]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2fff86c57541d36480425b93fedbce31de2a1461"
+git-tree-sha1 = "584525a44d26d6f95f98b8086f915848ab27cc2b"
 libc = "glibc"
 os = "linux"
 
     [[oxigraph_server.download]]
-    sha256 = "c7cf191b65c374d691a36bddf188a56889350125e34e15a67b5f751c3b7ab341"
-    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.18+0/oxigraph_server.v0.3.18.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d3ab3b1b843c1b20b702279e2b5e95860931ba4b37b4069700ab529cfdd1705e"
+    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.19+0/oxigraph_server.v0.3.19.aarch64-linux-gnu-cxx11.tar.gz"
 [[oxigraph_server]]
 arch = "x86_64"
-git-tree-sha1 = "8044b64f40ac066da7d29f921a451f3edf948714"
+git-tree-sha1 = "2e0a4959efca641c2c3df047dc7eb89d03232f15"
 os = "macos"
 
     [[oxigraph_server.download]]
-    sha256 = "eff81de79161b2a2e801e38f8ba4f4d2309348fce64f7e3ad7db12dcc613e70d"
-    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.18+0/oxigraph_server.v0.3.18.x86_64-apple-darwin.tar.gz"
+    sha256 = "51ad5f39c57196c2247c6f4132d53da7dada9ebbb8b16f022bedb4016a1a0c6c"
+    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.19+0/oxigraph_server.v0.3.19.x86_64-apple-darwin.tar.gz"
 [[oxigraph_server]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3ad1b121d83c1c1d1b0181615fb6dff1ecdbdb24"
+git-tree-sha1 = "b615f4766437efcf4af9e7848985854ec7a48c7c"
 libc = "glibc"
 os = "linux"
 
     [[oxigraph_server.download]]
-    sha256 = "19250f85e431a67de7bcb9d4a0141ddb80e7e10d9339915475e122b6b643af4a"
-    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.18+0/oxigraph_server.v0.3.18.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f708b30d1de778b924ee71d7970851892a29a089ca081e3237058ae3cc93a797"
+    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.19+0/oxigraph_server.v0.3.19.x86_64-linux-gnu-cxx11.tar.gz"
 [[oxigraph_server]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc90d06a1d09d15917653bd1222c7202809b1b86"
+git-tree-sha1 = "30a92b62fd684de3df6fb88029b75da709b288bf"
 os = "windows"
 
     [[oxigraph_server.download]]
-    sha256 = "a4d4fe6b58a9d7dc1059322f1e9c690bd7f391e583f2086d17bbc00b2f9dd150"
-    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.18+0/oxigraph_server.v0.3.18.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b06d8647fe381406706d4399f3114cb7bb15120438f0b7f7b4f0cf68cc18c572"
+    url = "https://github.com/JuliaBinaryWrappers/oxigraph_server_jll.jl/releases/download/oxigraph_server-v0.3.19+0/oxigraph_server.v0.3.19.x86_64-w64-mingw32-cxx11.tar.gz"
